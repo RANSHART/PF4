@@ -11,4 +11,4 @@ def line_equation_of(p1, p2):
     return f"y = {m:.2f}x + {c:.2f}"
 
 print("Persamaan garis yang melalui titik A dan B:")
-print(line_equation_of(point(1, 3), point(5, 9)))
+print(line_equation_of(point(1, 1), point(8, 2)))

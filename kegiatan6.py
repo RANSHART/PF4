@@ -11,5 +11,5 @@ def line_equation_of(p1, M):
 
     return f"y = {M:.2f}x + {C:.2f}"
 
-print("Persamaan garis yang melalui titik (6, -2) dan bergradien -2:")
-print(line_equation_of(point(6, -2), -2))
+print("Persamaan garis yang melalui titik (1, 8) dan bergradien 2:")
+print(line_equation_of(point(1, 8), 2))
